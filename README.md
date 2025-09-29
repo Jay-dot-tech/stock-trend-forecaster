@@ -22,7 +22,7 @@ Analyze historical stock data and view short-term forecasts for any stock. This 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ai-stock-trend-forecaster.git
+   git clone https://github.com/Jay-dot-tech/ai-stock-trend-forecaster.git
    cd ai-stock-trend-forecaster
    ```
 2. Install dependencies:
@@ -33,6 +33,7 @@ Analyze historical stock data and view short-term forecasts for any stock. This 
    ```sh
    echo GEMINI_API_KEY=your_api_key_here > .env.local
    ```
+
 
 ### Running Locally
 
@@ -47,6 +48,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 1. Enter a stock ticker (e.g., `AAPL`, `TCS.NS`) in the search box.
 2. View historical price charts and forecasted trends.
 3. Read the analysis and suggestions for further research.
+
+
+
+
 
 ## Contributing
 
