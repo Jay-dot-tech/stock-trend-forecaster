@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Stock Trend Forecaster",
+  "description": "An application that analyzes and forecasts stock market trends using historical data and generative AI. Users can input a stock ticker to visualize historical performance and receive an AI-powered analysis of trends, patterns, and short-term predictions."
+}
